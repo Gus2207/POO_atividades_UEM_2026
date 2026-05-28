@@ -1,0 +1,7 @@
+br\com\jogovelha\model\Jogador.class
+br\com\jogovelha\model\StatusPartida.class
+br\com\jogovelha\view\JogoDaVelhaView.class
+br\com\jogovelha\model\Tabuleiro.class
+br\com\jogovelha\Main.class
+br\com\jogovelha\model\Simbolo.class
+br\com\jogovelha\controller\JogoDaVelhaController.class
